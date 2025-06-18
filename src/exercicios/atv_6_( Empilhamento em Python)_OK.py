@@ -1,6 +1,6 @@
-"""Módulo para atividade #5 de Estrutura de Dados.
-Capaz de cadastrar, listar, alterar e excluir dados de
-dicionários contidos em uma lista
+"""Módulo para atividade #6 de Estrutura de Dados.
+Menu interativo para manipulação de pilha (push, pop, top, etc.) com loop até sair.  
+Implementa operações básicas de pilha (LIFO) para inteiros.  
 """
 import time
 

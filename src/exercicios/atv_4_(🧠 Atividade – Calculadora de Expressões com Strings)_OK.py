@@ -1,6 +1,6 @@
 """Módulo para atividade #4 de Estrutura de Dados.
-Capaz de receber uma ou mais expressões matemáticas,
-padronizá-las e calcula-las
+Calculadora de expressões em strings: processa operações como "a+b" ou 
+múltiplas "x+y, w-z", converte e calcula, tratando erros (divisão por zero, sintaxe inválida).
 """
 
 lista_expressoes = []

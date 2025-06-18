@@ -1,6 +1,6 @@
 """Módulo para atividade #7 de Estrutura de Dados.
-Capaz de cadastrar, listar, alterar e excluir dados de
-dicionários contidos em uma lista --> filas FIFO
+Menu interativo para manipulação de fila (enqueue, dequeue, first, last) com loop.  
+Implementa operações básicas de fila (FIFO) sem usar deque.  
 """
 import time
 

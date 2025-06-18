@@ -1,5 +1,6 @@
 """Módulo para atividade #3 de Estrutura de Dados.
-Capaz de cadastrar, remover e consultar informações
+Gerencia lista de compras: adicionar, remover, verificar itens, 
+exibir primeiros/últimos, converter maiúsculas/minúsculas e contar itens. Sai com opção 10.
 """
 
 compras = []

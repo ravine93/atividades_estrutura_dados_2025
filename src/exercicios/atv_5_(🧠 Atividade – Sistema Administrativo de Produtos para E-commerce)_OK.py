@@ -1,6 +1,6 @@
 """Módulo para atividade #5 de Estrutura de Dados.
-Capaz de cadastrar, listar, alterar e excluir dados de
-dicionários contidos em uma lista
+Sistema administrativo de e-commerce: gerencia produtos (CRUD) via dicionários, 
+com cadastro, listagem, edição e exclusão por código único.
 """
 import time
 

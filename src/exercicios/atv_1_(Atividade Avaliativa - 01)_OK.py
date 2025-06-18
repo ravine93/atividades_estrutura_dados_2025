@@ -1,6 +1,6 @@
 """Módulo para atividade #1 de Estrutura de Dados.
-Capaz de receber nome, notas, calcular médias e informar a situação do aluno
-padronizá-las e calcula-las
+Recebe nome e 4 notas do aluno, calcula a média e retorna 
+se está aprovado (>=6), reprovado (<5) ou em recuperação.
 """
 
 nm_aluno = input(" Informe o nome do aluno(a): ")

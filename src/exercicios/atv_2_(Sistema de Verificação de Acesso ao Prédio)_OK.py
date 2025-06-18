@@ -1,5 +1,6 @@
 """Módulo para atividade #2 de Estrutura de Dados.
-Capaz de verificar e liberar acessos prediais
+Verifica acesso ao prédio: moradores (qualquer hora), visitantes (8h-22h) 
+ou prestadores (8h-18h). Encerra ao digitar "sair".
 """
 
 while True:
