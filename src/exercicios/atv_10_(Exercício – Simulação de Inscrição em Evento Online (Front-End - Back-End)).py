@@ -71,7 +71,7 @@ def processar_inscricao(json_recebido): #back-end
 
     return { #garantir que seja retornado apenas dados que não passaram pelos 4 if's anteriores
         "status": "Sucesso",
-        "mensagem": "Inscrição realizada com sucesso!"
+        "mensagem": "Inscrição realizada com sucesso!!!"
     }
 
 
