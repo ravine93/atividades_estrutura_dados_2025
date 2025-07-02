@@ -4,6 +4,7 @@ produtos por código e exibir o estoque completo, tudo isso
 utilizando uma Árvore Binária de Busca (BST) implementada de 
 forma "funcional" (sem classes) e um menu interativo para o usuário
 """
+
 def criar_no_bst(valor_codigo_id, valor_qtdd): #função 1
     return {
         'codigo_id' : valor_codigo_id,
