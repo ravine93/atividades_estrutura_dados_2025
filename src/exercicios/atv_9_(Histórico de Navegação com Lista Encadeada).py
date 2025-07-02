@@ -91,12 +91,12 @@ def buscar_site(): #opção #5
 
 while True:
     print("\n========== Menu de Histórico de Navegação ==========")
-    print("1 - Acessar novo site")
-    print("2 - Ver histórico completo")
-    print("3 - Remover site do histórico")
-    print("4 - Limpar todo o histórico")
-    print("5 - Buscar site pelo endereço")
-    print("6 - Sair")
+    print(" [1] - Acessar novo site")
+    print(" [2] - Ver histórico completo")
+    print(" [3] - Remover site do histórico")
+    print(" [4] - Limpar todo o histórico")
+    print(" [5] - Buscar site pelo endereço")
+    print(" [6] - Sair")
 
     opcao = input("Escolha uma opção: ").strip()
 
